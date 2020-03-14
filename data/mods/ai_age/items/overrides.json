@@ -1,52 +1,52 @@
 [
     {
-        "type": "item",
+        "type": "ARMOR",
         "copy-from": "depowered_armor",
         "id": "depowered_armor",
         "description": "The DoubleTech Power Armor, Mk. I: A heavy suit of basic power armor, offering very good protection against attacks, but hard to move in.  This suit has had its servos and cooling system stripped out, meaning it no longer requires power, but also encumbers you greatly and doesn't provide internal thermal regulation."
     }, {
-        "type": "item",
+        "type": "ARMOR",
         "id": "depowered_helmet",
         "copy-from": "depowered_helmet",
         "description": "This used to be a military-grade full-head helmet with advanced optics and environmental filters.  It looks like it was decommissioned or otherwise stripped for parts; now it's a very expensive hat.  It's still quite durable, but quite hard to see out of."
     }, {
-        "type": "item",
+        "type": "ARMOR",
         "id": "power_armor_basic",
         "copy-from": "power_armor_basic",
         "name": { "str": "basic power armor" },
         "description": "The DoubleTech Power Armor, Mk. I: A heavy suit of basic power armor, offering very good protection against attacks, but hard to move in.  The UPS compartment can store other things if you don't mind powering the suit yourself.  Like all DoubleTech power armor, the control and climate-regulation systems require direct skin contact."
     }, {
-        "type": "item",
+        "type": "ARMOR",
         "id": "power_armor_frame",
         "copy-from": "power_armor_frame",
         "name": { "str": "power armor hauling frame" },
         "description": "A heavy-duty hauling frame designed to interface with power armor."
     }, {
-        "type": "item",
+        "type": "ARMOR",
         "id": "power_armor_heavy",
         "copy-from": "power_armor_heavy",
         "name": { "str": "power_armor_heavy" },
         "description": "A suit of DoubleTech Power Armor, Mk. II-H.  This model offers several improvements over the Mk. I, most notably the improved environmental protection.  Like all DoubleTech power armor, the control and climate-regulation systems require direct skin contact."
     }, {
-        "type": "item",
+        "type": "ARMOR",
         "id": "power_armor_helmet_basic",
         "copy-from": "power_armor_helmet_basic",
         "name": { "str": "power_armor_helmet_basic" },
         "description": "A basic helmet, designed for use with the DoubleTech Power Armor, Mk. I.  Offers excellent protection from both attacks and environmental hazards.  Like all DoubleTech power armor, the control and climate-regulation systems require direct skin contact."
     }, {
-        "type": "item",
+        "type": "ARMOR",
         "id": "power_armor_helmet_heavy",
         "copy-from": "power_armor_helmet_heavy",
         "name": { "str": "light power armor helmet" },
      "description": "A power armor helmet designed for use with the DoubleTech Power Armor, Mk. II-L.  This improved design is lighter and cooler than the Mk. I helmet.  Like all DoubleTech power armor, the control and climate-regulation systems require direct skin contact." 
     }, {
-        "type": "item",
+        "type": "ARMOR",
         "id": "power_armor_helmet_light",
         "copy-from": "power_armor_helmet_light",
         "name": { "str": "light power armor helmet" },
         "description": "A power armor helmet designed for use with the DoubleTech Power Armor, Mk. II-L.  This improved design is lighter and cooler than the Mk. I helmet.  Like all DoubleTech power armor, the control and climate-regulation systems require direct skin contact.",
     }, {
-        "type": "item",
+        "type": "ARMOR",
         "id": "power_armor_light",
         "copy-from": "power_armor_light",
         "name": { "str": "light power armor" },
