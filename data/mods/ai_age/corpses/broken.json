@@ -4,7 +4,8 @@
     "symbol": ",",
     "color": "green",
     "weight": "75 kg",
-    "copy-from": "broken_turret"
+    "copy-from": "broken_turret",
+    "name": { "str": "broken milspec turret", "str_pl": "broken milspec turrets" }
   },
   {
     "type": "GENERIC",

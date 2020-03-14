@@ -2740,6 +2740,7 @@
     "id": "broken_turret_rifle",
     "symbol": ",",
     "color": "green",
+    "name": { "str": "broken M249 autonomous CROWS II", "str_pl": "broken M249 autonomous CROWS II turrets" },
     "weight": "75 kg",
     "copy-from": "broken_turret"
   },
@@ -2748,8 +2749,8 @@
     "id": "broken_crows_m240",
     "symbol": ",",
     "color": "green",
+    "name": { "str": "broken M240 autonomous CROWS II", "str_pl": "broken M240 autonomous CROWS II turrets" },
     "weight": "75 kg",
-    "name": { "str": "broken 7.62mm turret", "str_pl": "broken 7.62mm turrets" },
     "copy-from": "broken_turret"
   },
   {
@@ -2757,7 +2758,7 @@
     "id": "broken_turret_bmg",
     "symbol": ",",
     "color": "green",
-    "name": { "str": "broken anti-material turret", "str_pl": "broken anti-material turrets" },
+    "name": { "str": "broken M2 autonomous CROWS II", "str_pl": "broken M2 autonomous CROWS II turrets" },
     "weight": "100 kg",
     "copy-from": "broken_turret"
   },
