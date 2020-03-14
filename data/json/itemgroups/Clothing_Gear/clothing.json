@@ -139,9 +139,8 @@
       { "item": "knee_pads", "prob": 85 },
       { "item": "helmet_army", "prob": 80 },
       { "item": "gloves_tactical", "prob": 60 },
-      { "item": "ballistic_vest_esapi", "prob": 90 },
-      { "item": "molle_pack", "prob": 85 },
       { "group": "clothing_tactical_leg", "prob": 15 },
+      { "group": "clothing_tactical_torso", "prob": 15 },
       {
         "distribution": [
           { "group": "clothing_glasses", "prob": 60 },
@@ -165,8 +164,7 @@
       { "item": "knee_pads", "prob": 85 },
       { "collection": [ { "item": "helmet_army" }, { "item": "helmet_liner" } ], "prob": 80 },
       { "collection": [ { "item": "gloves_liner", "prob": 60 }, { "item": "winter_gloves_army" } ], "prob": 80 },
-      { "item": "ballistic_vest_esapi", "prob": 90 },
-      { "item": "molle_pack", "prob": 85 },
+      { "group": "clothing_tactical_torso", "prob": 15 },
       { "group": "clothing_tactical_leg", "prob": 15 },
       {
         "distribution": [
@@ -189,7 +187,6 @@
       { "group": "clothing_soldier_shirt" },
       { "item": "jacket_army" },
       { "item": "pants_army" },
-      { "item": "webbing_belt" },
       { "distribution": [ { "item": "socks", "prob": 95 }, { "item": "socks_wool", "prob": 5 } ] },
       { "item": "boots_combat" },
       { "item": "helmet_army", "prob": 80 },
@@ -2202,8 +2199,6 @@
       [ "vest_leather", 22 ],
       [ "bunker_coat", 6 ],
       [ "bookplate", 10 ],
-      [ "ballistic_vest_empty", 2 ],
-      [ "ballistic_vest_esapi", 4 ],
       [ "modularvest", 4 ],
       [ "modularvesthard", 1 ],
       [ "modularvestkevlar", 2 ],

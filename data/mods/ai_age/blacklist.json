@@ -22,8 +22,10 @@
             "afs_energy_saber_on",
             "afs_hardlight_longbow",
             "laser_rifle_cheap",
-            "afs_hauling_space"
-
+            "afs_hauling_space",
+            "ballistic_vest_esapi",
+            "esapi_plate",
+            "esbi_plate"
         ]
     }
 ]
