@@ -46,7 +46,7 @@
         "id": "power_armor_helmet_light",
         "copy-from": "power_armor_helmet_light",
         "name": { "str": "light power armor helmet" },
-        "description": "A power armor helmet designed for use with the DoubleTech Power Armor, Mk. II-L.  This improved design is lighter and cooler than the Mk. I helmet.  Like all DoubleTech power armor, the control and climate-regulation systems require direct skin contact.",
+        "description": "A power armor helmet designed for use with the DoubleTech Power Armor, Mk. II-L.  This improved design is lighter and cooler than the Mk. I helmet.  Like all DoubleTech power armor, the control and climate-regulation systems require direct skin contact."
     }, {
         "type": "ARMOR",
         "id": "power_armor_light",
