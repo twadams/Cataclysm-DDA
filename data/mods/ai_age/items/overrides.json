@@ -3,10 +3,12 @@
         "type": "ARMOR",
         "copy-from": "depowered_armor",
         "id": "depowered_armor",
+        "name": { "str": "salvaged power armor" },
         "description": "The DoubleTech Power Armor, Mk. I: A heavy suit of basic power armor, offering very good protection against attacks, but hard to move in.  This suit has had its servos and cooling system stripped out, meaning it no longer requires power, but also encumbers you greatly and doesn't provide internal thermal regulation."
     }, {
         "type": "ARMOR",
         "id": "depowered_helmet",
+        "name": { "str": "salvaged power helmet" },
         "copy-from": "depowered_helmet",
         "description": "This used to be a military-grade full-head helmet with advanced optics and environmental filters.  It looks like it was decommissioned or otherwise stripped for parts; now it's a very expensive hat.  It's still quite durable, but quite hard to see out of."
     }, {
