@@ -1,0 +1,12 @@
+[{
+    "type": "MONSTER_BLACKLIST",
+    "monsters": ["mon_talon_m202a1"]
+},
+{
+"type": "ITEM_BLACKLIST",
+"items": [
+    "broken_talon_m202a1",
+    "bot_talon_m202a1"
+]
+}
+]
