@@ -1,0 +1,27 @@
+[{
+    "type": "GENERIC",
+    "id": "broken_turret_rifle",
+    "symbol": ",",
+    "color": "green",
+    "weight": "75 kg",
+    "copy-from": "broken_turret"
+  },
+  {
+    "type": "GENERIC",
+    "id": "broken_crows_m240",
+    "symbol": ",",
+    "color": "green",
+    "weight": "75 kg",
+    "name": { "str": "broken 7.62mm turret", "str_pl": "broken 7.62mm turrets" },
+    "copy-from": "broken_turret"
+  },
+  {
+    "type": "GENERIC",
+    "id": "broken_turret_bmg",
+    "symbol": ",",
+    "color": "green",
+    "name": { "str": "broken anti-material turret", "str_pl": "broken anti-material turrets" },
+    "weight": "100 kg",
+    "copy-from": "broken_turret"
+  }
+]
