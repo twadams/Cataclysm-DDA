@@ -5,10 +5,6 @@
     "name": "AI Age",
     "description": "Drifts the game away from realism and more towards sci-fi.",
     "category": "content",
-    "dependencies": [ "dda" ]
-  },
-  {
-    "type": "MONSTER_BLACKLIST",
-    "monsters": [ ]
+    "dependencies": [ "dda", "aftershock" ]
   }
 ]

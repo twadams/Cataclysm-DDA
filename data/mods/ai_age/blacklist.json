@@ -1,0 +1,29 @@
+[
+    {
+        "type": "MONSTER_BLACKLIST",
+        "monsters": [
+            "mon_talon_m202a1"
+        ]
+    },
+    {
+        "type": "ITEM_BLACKLIST",
+        "items": [
+            "broken_talon_m202a1",
+            "bot_talon_m202a1",
+            "afs_titanium_vest",
+            "afs_textbook_rifles",
+            "afs_textbook_launchers",
+            "afs_textbook_handguns",
+            "afs_textbook_shotguns",
+            "afs_textbook_rifles",
+            "afs_bio_wind_turbine",
+            "afs_titanium_bat",
+            "afs_energy_saber_off",
+            "afs_energy_saber_on",
+            "afs_hardlight_longbow",
+            "laser_rifle_cheap",
+            "afs_hauling_space"
+
+        ]
+    }
+]
