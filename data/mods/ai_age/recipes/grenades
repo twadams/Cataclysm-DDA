@@ -1,0 +1,25 @@
+[{
+    "result": "EMPbomb",
+    "type": "recipe",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_EXPLOSIVE",
+    "skill_used": "electronics",
+    "difficulty": 4,
+    "time": "32 m",
+    "reversible": true,
+    "book_learn": [ [ "textbook_anarch", 5 ], [ "advanced_electronics", 5 ] ],
+    "using": [ [ "soldering_standard", 6 ] ],
+    "qualities": [ { "id": "SCREW", "level": 1 } ],
+    "components": [
+      [ [ "superglue", 1 ], [ "cordage", 1, "LIST" ] ],
+      [
+        [ "scrap", 3 ],
+        [ "can_food_unsealed", 1 ],
+        [ "can_drink_unsealed", 1 ],
+        [ "clay_canister", 1 ],
+        [ "canister_empty", 1 ]
+      ],
+      [ [ "amplifier", 1 ], [ "power_supply", 1 ] ],
+      [ [ "cable", 5 ] ]
+    ]
+  }]

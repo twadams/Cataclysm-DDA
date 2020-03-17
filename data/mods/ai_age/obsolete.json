@@ -1,0 +1,7 @@
+[
+    {
+        "id": "grenade_emp",
+        "type": "MIGRATION",
+        "replace": "EMPbomb"
+    }
+]
