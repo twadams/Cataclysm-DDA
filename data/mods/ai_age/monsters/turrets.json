@@ -198,7 +198,7 @@
         "type": "gun",
         "cooldown": 1,
         "move_cost": 150,
-        "gun_type": "m4a1",
+        "gun_type": "m249",
         "ammo_type": "556",
         "fake_skills": [ [ "gun", 8 ], [ "rifle", 8 ] ],
         "fake_dex": 12,
