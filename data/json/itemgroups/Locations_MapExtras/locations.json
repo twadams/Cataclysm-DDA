@@ -43,6 +43,10 @@
       { "group": "guns_swat", "prob": 20 },
       { "group": "mags_swat", "prob": 20 },
       { "item": "survnote", "prob": 1 }
+      { "item": "l_car_223_kit", "prob": 5 },
+      { "item" "l_dsr_223_kit", "prob": 5 },
+      { "item": "l_lmg_223_kit", "prob": 5 },
+      [ "l_mbr_223_kit", "prob": 5 }
     ]
   },
   {
@@ -126,6 +130,7 @@
       { "group": "guns_shotgun_common", "prob": 50 },
       { "group": "guns_survival", "prob": 100 },
       { "item": "flaregun", "prob": 25 },
+      { "item": "l_HFPack", "prob": 50 },
       { "item": "large_repairkit", "prob": 5 },
       { "item": "signal_flare", "prob": 20 },
       { "item": "small_repairkit", "prob": 5 }
