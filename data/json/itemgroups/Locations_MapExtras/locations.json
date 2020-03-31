@@ -42,11 +42,11 @@
       { "group": "ammo_swat", "prob": 20 },
       { "group": "guns_swat", "prob": 20 },
       { "group": "mags_swat", "prob": 20 },
-      { "item": "survnote", "prob": 1 }
+      { "item": "survnote", "prob": 1 },
       { "item": "l_car_223_kit", "prob": 5 },
-      { "item" "l_dsr_223_kit", "prob": 5 },
+      { "item": "l_dsr_223_kit", "prob": 5 },
       { "item": "l_lmg_223_kit", "prob": 5 },
-      [ "l_mbr_223_kit", "prob": 5 }
+      { "item": "l_mbr_223_kit", "prob": 5 }
     ]
   },
   {
