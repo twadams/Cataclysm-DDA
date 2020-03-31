@@ -4,8 +4,10 @@
     "type": "GUN",
     "copy-from": "hk_mp5",
     "name": { "str": "H&K MP5T" },
+    "clip_size": 400,
     "description": "The Heckler & Koch MP5 is one of the most widely-used submachine guns in the world. This one has been adapted for use in a turret",
-    "magazines": []
+    "magazines": [],
+    "modes": [ [ "semi-auto", 1 ], [ "DEFAULT", "BURST", "3 rd.", 3 ], [ "AUTO", "auto", 4 ] ],
   },
   {
     "id": "mon_turret",
