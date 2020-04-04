@@ -52,7 +52,8 @@
             "distribution": [
               { "group": "guns_rifle_milspec", "prob": 75, "damage-min": 1, "damage-max": 4 },
               { "group": "guns_shotgun_milspec", "prob": 25, "damage-min": 1, "damage-max": 4 }
-            ]
+            ],
+            "prob": 20
           },
           {
             "distribution": [
