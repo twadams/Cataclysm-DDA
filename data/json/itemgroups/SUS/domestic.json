@@ -108,7 +108,6 @@
       { "item": "duct_tape", "prob": 50 },
       { "item": "duct_tape", "prob": 30 },
       { "item": "plastic_straw", "prob": 40, "count": [ 0, 6 ] },
-      
       { "item": "candle", "prob": 55 },
       { "item": "RPG_die", "prob": 5 },
       { "item": "metal_RPG_die", "prob": 1 },

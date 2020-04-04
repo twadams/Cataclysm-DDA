@@ -8,7 +8,7 @@
     "entries": [
       { "item": "mag_tailor", "prob": 40 },
       { "item": "manual_tailor", "prob": 40 },
-      { "item": "textbook_tailor",  "prob": 40 },
+      { "item": "textbook_tailor", "prob": 40 },
       { "item": "tailor_portfolio", "prob": 10 },
       { "item": "tailor_japanese", "prob": 5 }
     ]
