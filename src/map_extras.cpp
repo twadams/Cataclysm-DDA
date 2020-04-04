@@ -91,6 +91,8 @@ static const mtype_id mon_turret( "mon_turret" );
 static const mtype_id mon_turret_bmg( "mon_turret_bmg" );
 static const mtype_id mon_turret_rifle( "mon_turret_rifle" );
 static const mtype_id mon_turret_riot( "mon_turret_riot" );
+static const mtype_id mon_chickenbot("mon_chickenbot");
+static const mtype_id mon_tankbot("mon_tankbot");
 static const mtype_id mon_wasp( "mon_wasp" );
 static const mtype_id mon_wolf( "mon_wolf" );
 static const mtype_id mon_zombie_bio_op( "mon_zombie_bio_op" );
