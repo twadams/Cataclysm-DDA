@@ -13,7 +13,12 @@
     "type": "monstergroup",
     "name": "GROUP_ROBOT",
     "default": "mon_manhack",
-    "monsters": [ { "monster": "mon_bloodhound_drone", "freq": 220, "cost_multiplier": 0 } ]
+    "monsters": [ 
+      { "monster": "mon_bloodhound_drone", "freq": 220, "cost_multiplier": 0 },
+      { "monster": "mon_tripod", "freq": 110, "cost_multiplier": 0 },
+      { "monster": "mon_chickenbot", "freq": 60, "cost_multiplier": 0 },
+      { "monster": "mon_tankbot", "freq": 20, "cost_multiplier": 0 }
+    ]
   },
   {
     "type": "monstergroup",
@@ -42,5 +47,10 @@
     "//": "Mi-go base defenders for major boss battles.",
     "default": "mon_mi_go_guard",
     "monsters": [ { "monster": "afs_mon_migoturret", "freq": 50, "cost_multiplier": 3, "pack_size": [ 2, 3 ] } ]
+  },
+  {
+    "type": "monstergroup",
+    "name": "GROUP_CENTRAL_LAB",
+    "monsters": [{ "monster": "mon_chickenbot", "freq": 1, "cost_multiplier": 50 }]
   }
 ]

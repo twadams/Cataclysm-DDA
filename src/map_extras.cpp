@@ -597,7 +597,14 @@ static void mx_roadblock( map &m, const tripoint &abs_sub )
             }
         }
 
-        if( one_in( 2 ) ) {
+        if (one_in(3)) { // Chicken delivery
+            m.add_vehicle(vgroup_id("military_vehicles"), tripoint(12, SEEY * 2 - 7, abs_sub.z), 0, 70,
+                          -1);
+            m.add_spawn(mon_chickenbot, 1, point(12, 12));
+        } else if (one_in(2)) { // TAAANK
+            m.add_vehicle(vproto_id("military_cargo_truck"), point(12, SEEY * 2 - 8), 0, 70, -1);
+            m.add_spawn(mon_tankbot, 1, point(12, 12));
+        } else if (one_in(2))
             // The truck's wrecked...with fuel.  Explosive barrel?
             m.add_vehicle( vproto_id( "military_cargo_truck" ), point( 12, SEEY * 2 - 12 ), 0, 70, -1 );
             if( road_at_north ) {
