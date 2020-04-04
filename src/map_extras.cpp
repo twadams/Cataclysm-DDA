@@ -605,7 +605,7 @@ static void mx_roadblock( map &m, const tripoint &abs_sub )
             m.add_spawn(mon_chickenbot, 1, { 12, 12, abs_sub.z });
         } else if (one_in(2)) { // TAAANK
             m.add_vehicle(vproto_id("military_cargo_truck"), point(12, SEEY * 2 - 8), 0, 70, -1);
-            m.add_spawn(mon_tankbot, 1, { 12, 12, abs_sub.z };
+            m.add_spawn(mon_tankbot, 1, { 12, 12, abs_sub.z });
         } else if (one_in(2)) {
             // The truck's wrecked...with fuel.  Explosive barrel?
             m.add_vehicle( vproto_id( "military_cargo_truck" ), point( 12, SEEY * 2 - 12 ), 0, 70, -1 );
